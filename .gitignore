@@ -1,0 +1,29 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Jupyter Notebook metadata
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.h5
+*.db
+*.sqlite3
+
+# Model weights
+*.pkl
+*.pt
+*.joblib
