@@ -16,7 +16,6 @@ venv/
 Thumbs.db
 
 # Data files
-*.csv
 *.tsv
 *.xlsx
 *.h5
